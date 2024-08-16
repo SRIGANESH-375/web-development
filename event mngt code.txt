@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+     <head>
+             <title>Events</title>
+            <link rel="icon" href="img/date.png">
+    </head>
+
+    <body bgcolor="black" style="color: white;">
+        
+    
+       <center>
+        <h1>Upcoming Events 📅</h1>
+        <p>Don't miss any of your events.STAY TUNED FOR UPDATES</p>
+       </center>
+       <hr>
+       <p>A photo gallery captures moments frozen in time, telling stories through images. It's a curated collection that showcases creativity, emotion, and perspective. Whether it's a personal portfolio or an exhibition, a photo gallery invites viewers to explore and connect with the world through the photographer's lens.</p>
+       <center>
+        <img src="img/event1.png">
+        <h1>Photo Gallery</h1>
+        <h2>Free entry | Free Food | Pets are Not Allowed</h2>
+       </center>
+       <p>We believe that every event tells a story, and we're here to help you craft yours. With years of experience and a network of trusted partners, we bring creativity, innovation, and meticulous attention to detail to every event we plan. Our approach is collaborative—we listen closely to your ideas and work with you to create an event that not only meets your goals but also leaves a lasting impression on your guests. From intimate gatherings to large-scale productions, we are committed to delivering events that are as unique as you are.</p>
+
+       <center>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.myntra.com/?utm_source=dms_trafficaffiliates&utm_medium=dms_cuelinks_rev&utm_campaign=dms_trafficaffiliates_cuelinks_rev_20240809clf7hbbqe15q">Fashion Store</a>
+        </h1>
+        <h2>Free entry | Free Food | Pets are Not Allowed</h2>
+        <p>Fashion is a dynamic expression of individuality and culture, reflecting trends and personal style. It's more than just clothing—it's an art form that evolves, blending creativity with functionality. From high fashion to street style, fashion shapes identities and influences how we perceive the world around us.</p>
+       </center>
+       <hr>
+       <center><h1>Contact</h1>
+       <h2>+91 8056059781 | eventcollab@gmail.com</h2>
+       <p>2nd avenue,Anna Nagar,Chennai</p>
+    </center>
+</body>
+        
+
+   
+
+
+
+
+</html>
